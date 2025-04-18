@@ -1,0 +1,10 @@
+# prompts.txt
+
+Prompt: How do I add support for BYTE_SIZE and TIME_DURATION tokens in ANTLR grammar?
+Prompt: Help me write a Java class that parses "10MB" and returns the byte value.
+Prompt: How to implement a visitor method for new tokens in ANTLR-generated parser?
+Prompt: Create a directive in CDAP Wrangler that performs aggregation using new types.
+Prompt: Fix "Token must implement abstract method type()" in Java interface
+Prompt: How to push only code files and ignore .classpath/.project from Eclipse in Git
+Prompt: Generate a .gitignore for Java + Maven + Eclipse
+Prompt: Write README.md for CDAP Wrangler enhancement project
